@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.samhowes.helloijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.samhowes.helloijplugin.MyBundle
 
 class MyApplicationService {
 
